@@ -1,4 +1,13 @@
+# Proof-of-Presence
+
+Hackspiration’26 — AI & Automation in Blockchain
+
+A privacy-preserving, blockchain-based attendance verification system built on Algorand to ensure tamper-proof proof of classroom presence using time-limited QR codes.
+
+
+
 ### Algorand dApp Quick Start Guide (Base Template)
+
 
 This guide helps non‑technical founders and developers quickly prototype and test Web3 ideas on Algorand using this starter. You’ll set up the project, customize the UI via safe AI prompts, mint tokens and NFTs, and interact with smart contracts.
 
